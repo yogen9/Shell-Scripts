@@ -1,0 +1,1 @@
+rename .c .C *.c
